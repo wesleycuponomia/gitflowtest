@@ -1,5 +1,9 @@
 Teste File master [Alteração 1] [Alteração 2] [Alteração 3] [Alteração 4]
 
+
+File author 3
+
 Teste 2 File
 
 Teste File author2
+
