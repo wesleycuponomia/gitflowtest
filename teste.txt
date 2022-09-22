@@ -7,3 +7,9 @@ Teste 2 File
 
 Teste File author2
 
+--------
+
+teste v6 a1
+-----
+
+teste v 6 -a2
